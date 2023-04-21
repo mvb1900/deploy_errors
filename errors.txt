@@ -1,0 +1,3 @@
+VPS/UBUNTU Server
+--------------------------------
+1. Install GDAL 		| https://mothergeo-py.readthedocs.io/en/latest/development/how-to/gdal-ubuntu-pkg.html
